@@ -38,12 +38,12 @@ This project is a demo application that allows users to generate multiple-choice
 
 5. **Navigate to the project directory**:
     ```bash
-    cd chatbot
+    cd MCQGenerator
     ```
 
 6. **Run the Streamlit application**:
     ```bash
-    streamlit run app.py
+    streamlit run mcqGenerator.py
     ```
 
 ### Future Enhancements
